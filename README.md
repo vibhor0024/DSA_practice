@@ -1,2 +1,2 @@
 # DSA_practice
-neetcode practice
+neetcode practice test
